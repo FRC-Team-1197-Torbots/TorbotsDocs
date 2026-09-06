@@ -12,5 +12,6 @@ Use this site for anything that isn't specific to one piece of software: how the
 ## Where to start
 
 - New to the team? Start with [New Member Onboarding](getting-started/onboarding.md).
+- Want to understand how we choose what to build each season? See [Robot Design Philosophy](design-philosophy.md).
 - Looking for how a subteam works? See [Subteams](subteams/mechanical.md).
 - Need the build season schedule? See [Season Timeline](build-season/timeline.md).

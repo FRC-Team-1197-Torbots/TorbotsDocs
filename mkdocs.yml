@@ -25,6 +25,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Robot Design Philosophy: design-philosophy.md
   - Getting Started:
     - New Member Onboarding: getting-started/onboarding.md
     - Team Structure: getting-started/team-structure.md
