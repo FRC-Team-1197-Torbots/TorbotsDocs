@@ -17,17 +17,13 @@ A robot concept is not evaluated only on how many points it can theoretically sc
 
 Every season's robot should be chosen to fit the strengths and cover the weaknesses of the team as it exists *this year* — not the team as it existed two seasons ago, and not an idealized team on paper.
 
-## Student Capacity Is a Real Design Constraint
+## Student and Mentor Capacity Are Real Design Constraints
 
 A mechanism isn't right for the team just because a mentor could build it, or because it worked for a team with a deeper or more experienced roster. It has to match the students actually available this season: how many hands each subteam has, what skills and experience they've actually built up (not what they're capable of reaching eventually), and how much time they can realistically give around school and other commitments.
 
 Student capacity isn't just headcount — it's also depth. A subteam with one strong student and no one else who understands the mechanism is fragile: that knowledge doesn't transfer, doesn't survive that student being out sick or graduating, and doesn't scale to build, wire, and debug in parallel during a tight timeline. A design the current student group can own collectively is worth more than one only the most capable student on the team can pull off alone.
 
-## Mentor Capacity Is a Real Design Constraint
-
-Student capability is necessary but not sufficient. Mentors have to be equipped to support whatever gets designed — technically, in terms of safety, and in terms of the time they can actually give.
-
-**Even if students are capable of designing and building a mechanism, if the mentors backing them are not equipped to support it, that is not a recipe for success.** Mentor support isn't a nice-to-have layered on top of the design — it's a first-class constraint, in the same category as budget, build-season timeline, and shop/tooling access. A design that assumes mentor availability, expertise, or bandwidth the team doesn't actually have is a design that's more likely to fail late in build season, when it's hardest to recover.
+The same is true on the mentor side. Student capability is necessary but not sufficient — mentors have to be equipped to support whatever gets designed, technically, in terms of safety, and in terms of the time they can actually give. **Even if students are capable of designing and building a mechanism, if the mentors backing them are not equipped to support it, that is not a recipe for success.** Mentor support isn't a nice-to-have layered on top of the design — it's a first-class constraint, in the same category as budget, build-season timeline, and shop/tooling access. A design that assumes mentor availability, expertise, or bandwidth the team doesn't actually have is a design that's more likely to fail late in build season, when it's hardest to recover.
 
 Student capacity and mentor capacity aren't interchangeable, and one doesn't cover for the other. A deep, capable student roster backed by thin mentor support is exactly as much of a risk as a strong mentor bench trying to carry a thin student roster — both are ways the team, taken as a whole, doesn't actually have what the design assumes.
 
