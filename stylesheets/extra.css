@@ -1,0 +1,17 @@
+/* TorBots brand palette wired into Material theme */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:          #B03A3A;
+  --md-primary-fg-color--light:   #743030;
+  --md-primary-fg-color--dark:    #2A1818;
+  --md-accent-fg-color:           #B03A3A;
+
+  --md-default-bg-color:          #141312;
+  --md-default-bg-color--light:   #1F1D1B;
+  --md-default-bg-color--lighter: #2A2724;
+  --md-default-fg-color:          #EDE8E3;
+  --md-default-fg-color--light:   #9C948C;
+  --md-default-fg-color--lighter: #5C5550;
+
+  --md-code-bg-color:             #1F1D1B;
+  --md-code-fg-color:             #EDE8E3;
+}
