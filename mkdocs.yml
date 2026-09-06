@@ -1,0 +1,54 @@
+site_name: TorBots Docs
+site_description: Team-wide documentation for FRC Team 1197 TorBots
+repo_url: https://github.com/FRC-Team-1197-Torbots/TorbotsDocs
+repo_name: FRC-Team-1197-Torbots/TorbotsDocs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - toc.follow
+    - search.suggest
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - New Member Onboarding: getting-started/onboarding.md
+    - Team Structure: getting-started/team-structure.md
+  - Subteams:
+    - Mechanical: subteams/mechanical.md
+    - Electrical: subteams/electrical.md
+    - Programming: subteams/programming.md
+    - Business & Awards: subteams/business.md
+  - Build Season:
+    - Season Timeline: build-season/timeline.md
+    - Workflow & Tools: build-season/workflow.md
+  - Resources: resources/links.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+
+plugins:
+  - search
