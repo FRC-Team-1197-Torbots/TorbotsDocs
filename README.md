@@ -2,7 +2,7 @@
 
 Team-wide documentation site for **FRC Team 1197 TorBots**, built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
-This covers onboarding, team structure, subteam guides, and build season process. Project-specific docs for [ScouTor](https://github.com/FRC-Team-1197-Torbots/ScouTor) and [TorKit](https://github.com/FRC-Team-1197-Torbots/TorKit) live in their own repos.
+This covers how the team works, the subteam design standards we follow today, and the record of each season (plans and retros). Project-specific docs for [ScouTor](https://github.com/FRC-Team-1197-Torbots/ScouTor) and [TorKit](https://github.com/FRC-Team-1197-Torbots/TorKit) live in their own repos.
 
 ## Local development
 

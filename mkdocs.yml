@@ -25,18 +25,36 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Robot Design Philosophy: design-philosophy.md
-  - Getting Started:
-    - New Member Onboarding: getting-started/onboarding.md
-    - Team Structure: getting-started/team-structure.md
-  - Subteams:
-    - Mechanical: subteams/mechanical.md
-    - Electrical: subteams/electrical.md
-    - Programming: subteams/programming.md
-    - Business & Awards: subteams/business.md
-  - Build Season:
-    - Season Timeline: build-season/timeline.md
-    - Workflow & Tools: build-season/workflow.md
+  - Team:
+    - Robot Design Philosophy: team/design-philosophy.md
+    - New Member Onboarding: team/onboarding.md
+    - Team Structure: team/team-structure.md
+    - How a Build Season Runs: team/build-season.md
+    - Workflow & Tools: team/workflow.md
+  - Mechanical:
+    - Overview: mechanical/index.md
+    - Standards:
+      - Power Transmission: mechanical/standards/power-transmission.md
+      - Structure & Materials: mechanical/standards/structure-materials.md
+      - Bearings & Retention: mechanical/standards/bearings.md
+      - Linear Motion: mechanical/standards/linear-motion.md
+      - Intakes: mechanical/standards/intakes.md
+      - Shooters: mechanical/standards/shooters.md
+      - 3D Printing: mechanical/standards/3d-printing.md
+      - CAD: mechanical/standards/cad.md
+  - Electrical:
+    - Overview: electrical/index.md
+    - Standards:
+      - Connectors: electrical/standards/connectors.md
+      - Power & CAN: electrical/standards/power-can.md
+  - Programming: programming/index.md
+  - Seasons:
+    - Overview: seasons/index.md
+    - "2027":
+      - Season Plan: seasons/2027/plan.md
+    - "2026":
+      - Season Retro: seasons/2026/season.md
+      - Off-Season Retro: seasons/2026/off-season.md
   - Resources: resources/links.md
 
 markdown_extensions:
