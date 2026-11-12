@@ -36,3 +36,5 @@ Before committing to a mechanism, ask:
 - Is the upside toward Worlds worth risking DCMP?
 
 When in doubt, pick the mechanism the team already understands well over a new one you'd be learning under competition pressure, unless you genuinely have the student depth and mentor support to take it on.
+
+For how this applies to the current season, see the [2027 Season Plan](../seasons/2027/plan.md).
